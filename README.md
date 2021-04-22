@@ -11,7 +11,7 @@ Smart Mirror
 
 Инструкции за сваляне
 
-	1	Отворете следната връзка : https://github.com/MichMich/MagicMirror.git
+	1	Отворете следната връзка : (https://github.com/MichMich/MagicMirror.git)
 	2	Изберете зеления бутон "Code"
 	3	Избирате "Download ZIP"
 
